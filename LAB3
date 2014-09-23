@@ -66,7 +66,7 @@ This command should have a *flag* to specify the output file.  MAKE SURE TO NAME
 Write the command(s) that you used to download this file - as well as its output - below:
 ----------
 
-
+curl -o mtec1002-lab-03.tar.gz
 
 ==========
 7.  Uncompress the file that you just downloaded.
